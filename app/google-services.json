@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "633645140350",
+    "project_id": "smartreply-73c5b",
+    "storage_bucket": "smartreply-73c5b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:633645140350:android:4fca73bc626d4047d60b2f",
+        "android_client_info": {
+          "package_name": "com.nurtaz.dev.smartreply"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAN7hzyV4cV64VrgzFtgZDN36hZEDdkfg4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
